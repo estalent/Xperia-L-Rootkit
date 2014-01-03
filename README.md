@@ -18,9 +18,10 @@ shell@linux:~> ./adb_linux shell
 shell@android:/ $ su
 root@android:/ # whoami
 root
-root@android:/ # exit
-shell@android:/ $ exit
 ```
+
+### Android Terminal Emulator
+![ATE](http://bintang1992.files.wordpress.com/2014/01/screenshot_2014-01-03-09-43-221.png)
 
 Jika keluaran pada terminal seperti di atas berarti ponsel anda berhasil di-_root_.
 
