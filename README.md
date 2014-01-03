@@ -28,7 +28,7 @@ Jika keluaran pada terminal seperti di atas berarti ponsel anda berhasil di-_roo
 Diuji coba pada:
 
 - Linux: openSUSE 12.3 64 bit
-- Ponsel: Xperia L C1025
+- Ponsel: Xperia L ~~C1025~~ C2105
 - Android: 4.2.2
 - Build number: 15.3.A.1.12
  
