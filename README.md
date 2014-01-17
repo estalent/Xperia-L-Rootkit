@@ -31,6 +31,8 @@ Diuji coba pada:
 - Ponsel: Xperia L ~~C1025~~ C2105
 - Android: 4.2.2
 - Build number: 15.3.A.1.12
+
+> **[Update]**: Bisa digunakan pada firmware **15.3.A.1.14**!
  
 ## Kontak
 
